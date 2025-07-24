@@ -81,6 +81,7 @@ Distributed under the MIT License.
 
 ## 📸 Demo Screenshots
 
+
 ## 📸 Demo Screenshots
 
 ### 📤 PDF Upload Interface
@@ -100,4 +101,5 @@ Distributed under the MIT License.
 
 ### 💬 Final Chat Response
 ![Chat Response](img/Chatresponse.png)
+
 
