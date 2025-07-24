@@ -79,7 +79,9 @@ Distributed under the MIT License.
 ### 📤 PDF Upload Interface
 ## 📄 Demo Output
 
-### 📤 PDF Uploading Interface
+## 📸 Demo Screenshots
+
+### 📤 PDF Upload Interface
 ![PDF Uploading](img/Pdfuploading.png)
 
 ### 🔄 Processing PDF
@@ -88,13 +90,11 @@ Distributed under the MIT License.
 ### 🧩 Parsing PDF
 ![Parsing PDF](img/Parsingpdf.png)
 
-### 🤖 Bot Question
+### ❓ Bot Asking Question
 ![Bot Question](img/Botquestion.png)
 
-### 🤖 Bot Response
+### 🤖 Bot Giving Response
 ![Bot Response](img/Botresponse.png)
 
-### 💬 Chat Response
+### 💬 Final Chat Response
 ![Chat Response](img/Chatresponse.png)
-
-
