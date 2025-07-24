@@ -101,5 +101,3 @@ Distributed under the MIT License.
 
 ### 💬 Final Chat Response
 ![Chat Response](img/Chatresponse.png)
-
-
