@@ -74,4 +74,24 @@ I have built my own version with significant enhancements, including:
 - Downloadable responses and chat history
 Distributed under the MIT License.
 
+## 🖼 Demo Output
+
+### 📤 PDF Upload Interface
+![PDF Upload](<img width="1920" height="1008" alt="Screenshot 2025-07-24 093946" src="https://github.com/user-attachments/assets/37e78801-e39f-444f-81b2-55f560162d18" />
+)
+<img width="1920" height="1008" alt="Screenshot 2025-07-24 093955" src="https://github.com/user-attachments/assets/dbe5ab9a-d446-474a-9410-0de6f1b6456b" />
+<img width="1920" height="1008" alt="Screenshot 2025-07-24 094003" src="https://github.com/user-attachments/assets/8fbb1a9c-71ad-49a8-83d3-6034e24e0809" />
+<img width="1920" height="1008" alt="Screenshot 2025-07-24 094050" src="https://github.com/user-attachments/assets/42bc7669-abe8-46ed-bc76-c7277599927b" />
+
+
+
+
+### 💬 Chatbot Response
+![Chatbot Output](<img width="1920" height="1008" alt="Screenshot 2025-07-24 094123" src="https://github.com/user-attachments/assets/82cc43e7-10ab-4c99-a1c5-2fffe5e6b035" />
+)
+
+### 🗂 Chat History Panel
+![Chat History](<img width="1920" height="1008" alt="Screenshot 2025-07-24 094133" src="https://github.com/user-attachments/assets/b11031ed-2c43-4933-9c03-e1799ae34885" />
+)
+<img width="1920" height="1008" alt="Screenshot 2025-07-24 094149" src="https://github.com/user-attachments/assets/2a616c83-6681-4804-85b6-05ae78468941" />
 
